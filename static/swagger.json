@@ -1,0 +1,12 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "description": "TREPLABS",
+    "version": "1.0.0",
+    "title": "TREPLABS Machine learning Research Model API's",
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  }
+}
