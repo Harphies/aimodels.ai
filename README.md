@@ -2,7 +2,11 @@
 
 ### _Anyone— patients, doctor, organization, medical IoT device developer, or researcher— can access in order to make more informed clinical decisions._
 
-- computer vision for medical diagnosis: Computer-aided disease diagnosis.
+```
+We focus more on leveraging pretrained models and architecture and less attention on custom training at the early stage
+```
+
+- computer vision for medical diagnosis: Computer-aided disease diagnosis. (object detection, image classification, Image segmentation, image tagging, image similarity)
 
   - Systems for diabetics Retinopathy(Segmentation, Grading and Localization) based on an image of the human eye: A system which based on an image of human eye classifies Diabetic Retinopathy disease using image processing and machine learning methods
     - Morphological image processing methods are used to extract features like exudates and red lesion which characterise the disease.
@@ -12,6 +16,11 @@
   - Scanning medical images for abnormalities.
   - Cancer diagnosis (Breast cancer etc)
   - Diagnosing heart diseases.
+  - Tumor detection
+  - Alzheimer's and parkinson's Detection
+  - Brain Injuries
+  - Internal bleeding
+  - Pneumonia
 
 - Medical Images and EHR (X-ray, ultrasound, CT or MRI scan) for diagnosing varieties of diseases.
   - sourcing training and testing data for medical applications
